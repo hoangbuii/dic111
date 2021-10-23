@@ -1,0 +1,55 @@
+Hello	Xin chao
+Home	Ngoi nha
+Biologist	Nha sinh vat hoc
+Caring	Quan tam
+Close-knit	Quan he khang khit
+Secure	An toan
+Shift	Ca/Kip
+Bride	Co dau
+Groom	Chu re
+Contractural	Thoa thuan
+Oblige	Ep buoc
+Reject	Loai Bo
+Rim	Vanh/Mep
+Apoligize	Xin loi
+Approach	Tiep can
+Argument	Su tranh luan
+Attract	Hap dan
+Decent	Lich su
+Install	Lap dat
+Kidding	Dua
+Maximum	Toi da
+Compulsory	Bat buoc
+Nursery	Nha tre
+Blame	Do loi
+Mate	Ban be
+Scary	So hai
+Require	Yeu cau
+Category	Loai/Hang
+Retail	Ban lee
+Drug	Ma tuy
+Eliminate	Loai bo
+Sector	Khu vuc
+Stagnant	Tri tre
+Optimistic	Lac quan
+Reform	Cai cach
+Acacia	Cay keo
+Dune	Con cat/Sa mac
+Hummock	Go/Dong
+Jackal	Cho hoang
+Bamboo	Cay tre
+Enact	Ban Hanh
+Panda	Gau truc
+Chew	Nhai
+Digest	Tieu hoa
+Survive	Song sot
+Cap	Mu luoi trai
+Eject	Day ra
+Foul	Pham luat/Sai sot
+Tie	Hoa
+Penalty	Hinh phat
+Vertical	Phuong thang dung
+Clear	Nhay qua
+Deal	Su thoa thuan
+Defend	Bao ve
+Ballon	Khi
