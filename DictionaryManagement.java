@@ -27,6 +27,7 @@ public class DictionaryManagement {
         try {
             File file = new File("dictionaries.txt");
             Scanner scan = new Scanner(file);
+            dictionary.clear();
             while (scan.hasNextLine()) {
                 String wordTarget = scan.next();
                 String wordExplain = scan.next() + scan.nextLine();;

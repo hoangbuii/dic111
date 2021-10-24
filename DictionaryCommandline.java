@@ -51,7 +51,6 @@ public class DictionaryCommandline {
     public void addAWord(String wordTarget, String wordExplain) {
         dictionaryManagement.addWord(wordTarget, wordExplain);
         dictionaryManagement.dictionaryExportToFile();
-        dictionaryManagement.insertFromFile();
     }
 
     /** Read and show to command line. */
@@ -68,6 +67,14 @@ public class DictionaryCommandline {
         dictionaryManagement.removeWord("Before");
         showAllWords();
         dictionaryManagement.dictionaryExportToFile();
+    }
+
+    public void dictionaryChange(String wordTarget, String wordExplain) {
+        dictionaryManagement.changeWord(wordTarget, wordExplain);
+    }
+
+    public void dictionaryRemove(String wordTarget) {
+        dictionaryManagement.removeWord(wordTarget);
     }
 
     /** Seach a word. */

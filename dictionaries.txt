@@ -37,7 +37,6 @@ Acacia	Cay keo
 Dune	Con cat/Sa mac
 Hummock	Go/Dong
 Jackal	Cho hoang
-Bamboo	Cay tre
 Enact	Ban Hanh
 Panda	Gau truc
 Chew	Nhai
@@ -52,4 +51,12 @@ Vertical	Phuong thang dung
 Clear	Nhay qua
 Deal	Su thoa thuan
 Defend	Bao ve
-Ballon	Khi
+Change	Thay doi
+Forge	Tao dung
+Rubbish	Nham nhi
+Clap	Vo tay
+Economic	Kinh te
+See	Thay
+Happy	Hanh phuc
+Hand	Canh tay
+Book	Quyen sach

@@ -28,6 +28,14 @@ public class Dictionary {
 
     /** Return Word at index. */
     public Word at(int index) {
-        return words.get(index);
+        if (index >= 0) {
+            return words.get(index);
+        }
+        return null;
+    }
+
+    /** Clear dictionary. */
+    public void clear() {
+        words.clear();
     }
 }
